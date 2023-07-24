@@ -1,3 +1,6 @@
+
+
+/* <------------------- HEADER -------------------> */
 .contener header{
     top: 0;
     left: 0;
@@ -6,6 +9,8 @@
     background-color: blue;
 }
 
+
+/* <------------------- MIDDLE PART -------------------> */
 .contener section{
     top: 250px;
     left: 0px;
@@ -14,6 +19,8 @@
     background-color: violet;
 }
 
+
+/* <------------------- FOOTER -------------------> */
 .contener footer{
     top: 500px;
     left: 0px;
